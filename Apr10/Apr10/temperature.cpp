@@ -36,8 +36,4 @@ int main() {
 	else
 		cout << "You are a fugitive from the law of averages." << endl;
 
-
-
-
-
 }
